@@ -9,7 +9,7 @@ export default defineConfig(({ mode }) => ({
   //   - User/Org page (repo named <username>.github.io) → base: "/"
   //   - Project page (any other repo name, e.g. "portfolio") → base: "/portfolio/"
   // Change the base below to match your repo name if it's a project page.
-  base: "/",
+  base: "/abhijeet-bali.github.io/",
   server: {
     host: "::",
     port: 8080,
