@@ -63,7 +63,7 @@ const HeroSection = () => {
           style={{ transitionDelay: "900ms" }}
         >
           {[
-            { num: "4+", label: "Years Experience" },
+            { num: "4.6+", label: "Years Experience" },
             { num: "8+", label: "Projects" },
             { num: "70%", label: "Effort Reduced" },
           ].map((s) => (
